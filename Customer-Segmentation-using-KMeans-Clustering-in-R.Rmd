@@ -1,9 +1,3 @@
----
-title: "Customer Segmentation using K-Means Clustering in R"
-author: "Olayinka Arimoro"
-date: "May 17, 2021"
-output: html_document
----
 
 # Task One: Getting Started
 In this task, you will import the required
